@@ -3,6 +3,8 @@
 **Überblick**  
 Dieses Repository enthält ein Google Apps Script, mit dem sich eine XML-Sitemap direkt in Google Sheets überwachen und analysieren lässt. Mit diesem Tool behalten SEO-Profis und Website-Betreiber automatisch die Übersicht über alle Seiten, die in ihrer Sitemap gelistet sind, und erhalten wertvolle Einblicke zu Status und Auffälligkeiten.
 
+![Screenshot einer TAbelle mit dem aktivierten Skript](https://github.com/seoseb-de/AppsScript-Sitemap-Monitor/blob/main/sitemap_tester_sheet.png)
+
 ## Features
 
 - **Automatisierter Sitemap-Check:** Alle URLs der Sitemap werden automatisch überprüft.
